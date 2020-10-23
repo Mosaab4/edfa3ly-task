@@ -1,0 +1,21 @@
+{
+    "name": "edfa3ly/task",
+    "authors": [
+        {
+            "name": "mosaab",
+            "email": "musab.ehab@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.1",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "files": [
+            "src/Helpers/helpers.php"
+        ],
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}

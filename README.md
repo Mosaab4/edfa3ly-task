@@ -98,8 +98,8 @@ Then it calculates the sub total, discounts, tax and total price of the products
 ```
 
 ### Todolist
-- [ ] Create a command for creating new products by appending the product and price to the json files
-- [ ] Create a command for displaying and adding new offers
-- [ ] use json files for offers
-- [ ] add a new feature to enable the tool to access json api for more products and offers 
+-  Create a command for creating new products by appending the product and price to the json files
+-  Create a command for displaying and adding new offers
+-  use json files for offers
+-  add a new feature to enable the tool to access json api for more products and offers 
 
